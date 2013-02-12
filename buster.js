@@ -8,6 +8,7 @@ config["Javascript and frameworks exploratory tests"] = {
     ],
     tests: [
         "javascript/*_test.js",
-        "ember/*_test.js"
+        "ember/*_test.js",
+        "sinon/*_test.js"
     ]
 };
